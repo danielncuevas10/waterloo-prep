@@ -1,7 +1,0 @@
-build/
-*.vcd
-*.vvp
-a.out
-__pycache__/
-.DS_Store
-
